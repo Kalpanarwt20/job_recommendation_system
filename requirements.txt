@@ -1,0 +1,11 @@
+streamlit
+openai
+pymupdf
+python-dotenv
+apify-client
+fastapi
+uvicorn
+requests
+flask
+gunicorn
+mysql-connector-python
