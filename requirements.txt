@@ -6,7 +6,5 @@ apify-client
 fastapi
 uvicorn
 requests
-# flask
-# gunicorn
 mysql-connector-python
-groq
+groq==0.4.2
